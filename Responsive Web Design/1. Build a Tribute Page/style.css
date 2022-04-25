@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  background-image: linear-gradient(#4b0908, #b97d10);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+}
+#main {
+  padding: 2rem 10rem 2rem 10rem;
+}
+#title {
+  text-align: center;
+  color: #fbca03;
+}
+p {
+  text-align: justify;
+}
+#img-div {
+  background-color: #fcf1f1e0;
+  color: black;
+  font-size: 18px;
+  border-radius: 10px;
+}
+#image {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px 10px 0 0;
+}
+#img-caption {
+  margin: 0;
+  padding: 10px;
+  text-align: end;
+}
+#tribute-info {
+  text-align: justify;
+}
+#tribute-info h4 {
+  text-transform: uppercase;
+}
+ul li {
+  font-weight: bold;
+}
+#tribute-link {
+  color: white;
+}
